@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=7c3aed&center=true&vCenter=true&width=500&lines=⚛️+React+%7C+Python+%7C+Django;🎨+HTML+%7C+CSS+%7C+JavaScript;🚀+Open+to+Freelance+%26+Entry-level+Roles;☕+Coffee-powered+developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=7c3aed&center=true&vCenter=true&width=500&lines=React+%7C+Python+%7C+Django+%7C+HTML+%7C+CSS;Building+beautiful+full-stack+apps;Open+to+Freelance+and+Entry-level+Roles;Coffee-powered+developer" alt="Typing SVG" />
 
 <br/>
 
