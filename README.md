@@ -119,7 +119,7 @@ I'm a **Computer Science & Design** graduate (CGPA: 8.21) with a strong foundati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-k-r-9907aa3a8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthana22r-oss)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/keerthana.k.r)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://keerthana22r-oss.github.io](https://keerthana22r-oss.github.io/keerthana-portfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://keerthana22r-oss.github.io/keerthana-portfolio/)
 
 </div>
 
