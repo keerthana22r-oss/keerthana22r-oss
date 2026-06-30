@@ -127,7 +127,7 @@ I'm a **Computer Science & Design** graduate (CGPA: 8.21) with a strong foundati
 
 ### 🌟 Quote I Live By
 
-> *"Every expert was once a beginner."* — Helen Hayes
+> *"Every expert was once a beginner."*   — Helen Hayes
 
 ---
 
