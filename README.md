@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hi there, I'm <span style="color:#61dafb;">Keerthana K R</span> 👋
+# 💫 Hi there, I'm <span style="color:#38bdf8;">Keerthana K R</span> 👋
 ### Full-Stack Software Engineer · AI & LLM Systems · CS&D Graduate
 
 <a href="https://git.io/typing-svg">
@@ -22,23 +22,30 @@
 
 ---
 
-### 🌟 About Me
+### 👩‍💻 About Me
 
-```yaml
-name: Keerthana K R
-location: Mysuru, Karnataka, India
-degree: B.E. in Computer Science & Design (VTU, CGPA: 8.21/10)
-roles_seeking: Full-Stack Engineer | AI/ML Software Developer | Backend Engineer
-core_stack: [Python, Django, React, Vite, Flask, MySQL, SQLite, Gemini API, Claude API]
-passions: [Building clean architecture systems, AI workflow automation, High-Performance APIs]
-fun_fact: "I turn coffee into responsive frontends and resilient backends ☕💻"
-```
-
-- 🔭 **Currently Building:** Production-ready full-stack applications with **React 18, Flask/Django, and Autonomous LLM Agents**.
-- 🧠 **AI Focus:** Multi-turn ReAct agent loops, tool sandboxing, prompt orchestration, and automated evaluation metrics.
-- 💼 **Experience:** Python Full-Stack Intern at **QSpiders / Test Yantra** & Data Science Intern at **Placemanta**.
-- 💬 **Ask me about:** Python, Django MVT, REST APIs, raw SQL optimization, and Streamlit analytics.
-- 📫 **Reach me at:** **[keerthana22r@gmail.com](mailto:keerthana22r@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/keerthana-k-r-9907aa3a8)**.
+<table>
+  <tr>
+    <td width="64%" valign="top">
+      <p>
+        I'm a <b>Computer Science & Design</b> graduate with a deep passion for architecting resilient full-stack platforms, autonomous AI systems, and interactive data products. I thrive on translating ambitious ideas into clean, maintainable, and high-performing production code.
+      </p>
+      <p>
+        Whether engineering raw SQL query optimization with zero ORM overhead in <b>React + Flask</b>, constructing dynamic financial analytics in <b>Django</b>, or orchestrating multi-turn <b>ReAct AI Coding Agents</b> with Gemini and Claude, I care deeply about clean architecture, performance, and delightful user experiences.
+      </p>
+      <ul>
+        <li>🎓 <b>Education:</b> B.E. in Computer Science & Design · VTU (<b>CGPA: 8.21 / 10</b>)</li>
+        <li>📍 <b>Location:</b> Mysuru, Karnataka, India</li>
+        <li>💼 <b>Open For:</b> Full-Time <b>Software Engineer</b> · <b>Full-Stack Developer</b> · <b>AI/Backend Roles</b></li>
+        <li>🌱 <b>Currently Exploring:</b> Distributed systems, LLM agentic tool-use, and advanced React internals</li>
+        <li>⚡ <b>Vibe:</b> Deep focus, clean modular commits, and music playing in the background 🎧☕</li>
+      </ul>
+    </td>
+    <td width="36%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px;" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
