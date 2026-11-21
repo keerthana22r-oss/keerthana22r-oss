@@ -42,7 +42,7 @@
       </ul>
     </td>
     <td width="36%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px;" alt="Coding Animation" />
+      <img src="https://raw.githubusercontent.com/keerthana22r-oss/keerthana22r-oss/main/assets/developer_3d.jpg" width="100%" style="border-radius: 14px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Keerthana 3D Developer Avatar" />
     </td>
   </tr>
 </table>
